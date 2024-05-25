@@ -1,0 +1,15 @@
+C:\Users\conra\Documents\csharp\CalculoSalario\CalculoSalario\obj\Debug\net8.0\CalculoSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conra\Documents\csharp\CalculoSalario\CalculoSalario\obj\Debug\net8.0\CalculoSalario.AssemblyInfoInputs.cache
+C:\Users\conra\Documents\csharp\CalculoSalario\CalculoSalario\obj\Debug\net8.0\CalculoSalario.AssemblyInfo.cs
+C:\Users\conra\Documents\csharp\CalculoSalario\CalculoSalario\obj\Debug\net8.0\CalculoSalario.csproj.CoreCompileInputs.cache
+C:\Users\conra\Documents\csharp\CalculoSalario\CalculoSalario\obj\Debug\net8.0\CalculoSalario.sourcelink.json
+C:\Users\conra\Documents\csharp\CalculoSalario\CalculoSalario\bin\Debug\net8.0\CalculoSalario.exe
+C:\Users\conra\Documents\csharp\CalculoSalario\CalculoSalario\bin\Debug\net8.0\CalculoSalario.deps.json
+C:\Users\conra\Documents\csharp\CalculoSalario\CalculoSalario\bin\Debug\net8.0\CalculoSalario.runtimeconfig.json
+C:\Users\conra\Documents\csharp\CalculoSalario\CalculoSalario\bin\Debug\net8.0\CalculoSalario.dll
+C:\Users\conra\Documents\csharp\CalculoSalario\CalculoSalario\bin\Debug\net8.0\CalculoSalario.pdb
+C:\Users\conra\Documents\csharp\CalculoSalario\CalculoSalario\obj\Debug\net8.0\CalculoSalario.dll
+C:\Users\conra\Documents\csharp\CalculoSalario\CalculoSalario\obj\Debug\net8.0\refint\CalculoSalario.dll
+C:\Users\conra\Documents\csharp\CalculoSalario\CalculoSalario\obj\Debug\net8.0\CalculoSalario.pdb
+C:\Users\conra\Documents\csharp\CalculoSalario\CalculoSalario\obj\Debug\net8.0\CalculoSalario.genruntimeconfig.cache
+C:\Users\conra\Documents\csharp\CalculoSalario\CalculoSalario\obj\Debug\net8.0\ref\CalculoSalario.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\conra\\Documents\\csharp\\CalculoSalario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{420AB1F8-ABAF-4A12-B64D-849249AB0C49}|CalculoSalario\\CalculoSalario.csproj|c:\\users\\conra\\documents\\csharp\\calculosalario\\calculosalario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{420AB1F8-ABAF-4A12-B64D-849249AB0C49}|CalculoSalario\\CalculoSalario.csproj|solutionrelative:calculosalario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{420AB1F8-ABAF-4A12-B64D-849249AB0C49}|CalculoSalario\\CalculoSalario.csproj|c:\\users\\conra\\documents\\csharp\\calculosalario\\calculosalario\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{420AB1F8-ABAF-4A12-B64D-849249AB0C49}|CalculoSalario\\CalculoSalario.csproj|solutionrelative:calculosalario\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\conra\\Documents\\csharp\\CalculoSalario\\CalculoSalario\\Funcionario.cs",
+              "RelativeDocumentMoniker": "CalculoSalario\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\conra\\Documents\\csharp\\CalculoSalario\\CalculoSalario\\Funcionario.cs",
+              "RelativeToolTip": "CalculoSalario\\Funcionario.cs",
+              "ViewState": "AQIAAA4AAADgZWZmZiYlwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T22:05:41.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\conra\\Documents\\csharp\\CalculoSalario\\CalculoSalario\\Program.cs",
+              "RelativeDocumentMoniker": "CalculoSalario\\Program.cs",
+              "ToolTip": "C:\\Users\\conra\\Documents\\csharp\\CalculoSalario\\CalculoSalario\\Program.cs",
+              "RelativeToolTip": "CalculoSalario\\Program.cs",
+              "ViewState": "AQIAABAAAACANTMzMzMDwB4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T22:01:52.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
