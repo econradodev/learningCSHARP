@@ -1,0 +1,14 @@
+C:\Users\conra\Documents\csharp\EstudoInicial\EstudoInicial\obj\Debug\net8.0\EstudoInicial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conra\Documents\csharp\EstudoInicial\EstudoInicial\obj\Debug\net8.0\EstudoInicial.AssemblyInfoInputs.cache
+C:\Users\conra\Documents\csharp\EstudoInicial\EstudoInicial\obj\Debug\net8.0\EstudoInicial.AssemblyInfo.cs
+C:\Users\conra\Documents\csharp\EstudoInicial\EstudoInicial\obj\Debug\net8.0\EstudoInicial.csproj.CoreCompileInputs.cache
+C:\Users\conra\Documents\csharp\EstudoInicial\EstudoInicial\bin\Debug\net8.0\EstudoInicial.exe
+C:\Users\conra\Documents\csharp\EstudoInicial\EstudoInicial\bin\Debug\net8.0\EstudoInicial.deps.json
+C:\Users\conra\Documents\csharp\EstudoInicial\EstudoInicial\bin\Debug\net8.0\EstudoInicial.runtimeconfig.json
+C:\Users\conra\Documents\csharp\EstudoInicial\EstudoInicial\bin\Debug\net8.0\EstudoInicial.dll
+C:\Users\conra\Documents\csharp\EstudoInicial\EstudoInicial\bin\Debug\net8.0\EstudoInicial.pdb
+C:\Users\conra\Documents\csharp\EstudoInicial\EstudoInicial\obj\Debug\net8.0\EstudoInicial.dll
+C:\Users\conra\Documents\csharp\EstudoInicial\EstudoInicial\obj\Debug\net8.0\refint\EstudoInicial.dll
+C:\Users\conra\Documents\csharp\EstudoInicial\EstudoInicial\obj\Debug\net8.0\EstudoInicial.pdb
+C:\Users\conra\Documents\csharp\EstudoInicial\EstudoInicial\obj\Debug\net8.0\EstudoInicial.genruntimeconfig.cache
+C:\Users\conra\Documents\csharp\EstudoInicial\EstudoInicial\obj\Debug\net8.0\ref\EstudoInicial.dll
