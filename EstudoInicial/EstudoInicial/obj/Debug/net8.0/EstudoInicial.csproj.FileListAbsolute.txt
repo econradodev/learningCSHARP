@@ -12,3 +12,4 @@ C:\Users\conra\Documents\csharp\EstudoInicial\EstudoInicial\obj\Debug\net8.0\ref
 C:\Users\conra\Documents\csharp\EstudoInicial\EstudoInicial\obj\Debug\net8.0\EstudoInicial.pdb
 C:\Users\conra\Documents\csharp\EstudoInicial\EstudoInicial\obj\Debug\net8.0\EstudoInicial.genruntimeconfig.cache
 C:\Users\conra\Documents\csharp\EstudoInicial\EstudoInicial\obj\Debug\net8.0\ref\EstudoInicial.dll
+C:\Users\conra\Documents\csharp\EstudoInicial\EstudoInicial\obj\Debug\net8.0\EstudoInicial.sourcelink.json
