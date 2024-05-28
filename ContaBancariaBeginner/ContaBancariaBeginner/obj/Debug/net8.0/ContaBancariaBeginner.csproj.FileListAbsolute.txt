@@ -1,0 +1,15 @@
+C:\Users\conra\Documents\csharp\ContaBancariaBeginner\ContaBancariaBeginner\obj\Debug\net8.0\ContaBancariaBeginner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conra\Documents\csharp\ContaBancariaBeginner\ContaBancariaBeginner\obj\Debug\net8.0\ContaBancariaBeginner.AssemblyInfoInputs.cache
+C:\Users\conra\Documents\csharp\ContaBancariaBeginner\ContaBancariaBeginner\obj\Debug\net8.0\ContaBancariaBeginner.AssemblyInfo.cs
+C:\Users\conra\Documents\csharp\ContaBancariaBeginner\ContaBancariaBeginner\obj\Debug\net8.0\ContaBancariaBeginner.csproj.CoreCompileInputs.cache
+C:\Users\conra\Documents\csharp\ContaBancariaBeginner\ContaBancariaBeginner\obj\Debug\net8.0\ContaBancariaBeginner.sourcelink.json
+C:\Users\conra\Documents\csharp\ContaBancariaBeginner\ContaBancariaBeginner\bin\Debug\net8.0\ContaBancariaBeginner.exe
+C:\Users\conra\Documents\csharp\ContaBancariaBeginner\ContaBancariaBeginner\bin\Debug\net8.0\ContaBancariaBeginner.deps.json
+C:\Users\conra\Documents\csharp\ContaBancariaBeginner\ContaBancariaBeginner\bin\Debug\net8.0\ContaBancariaBeginner.runtimeconfig.json
+C:\Users\conra\Documents\csharp\ContaBancariaBeginner\ContaBancariaBeginner\bin\Debug\net8.0\ContaBancariaBeginner.dll
+C:\Users\conra\Documents\csharp\ContaBancariaBeginner\ContaBancariaBeginner\bin\Debug\net8.0\ContaBancariaBeginner.pdb
+C:\Users\conra\Documents\csharp\ContaBancariaBeginner\ContaBancariaBeginner\obj\Debug\net8.0\ContaBancariaBeginner.dll
+C:\Users\conra\Documents\csharp\ContaBancariaBeginner\ContaBancariaBeginner\obj\Debug\net8.0\refint\ContaBancariaBeginner.dll
+C:\Users\conra\Documents\csharp\ContaBancariaBeginner\ContaBancariaBeginner\obj\Debug\net8.0\ContaBancariaBeginner.pdb
+C:\Users\conra\Documents\csharp\ContaBancariaBeginner\ContaBancariaBeginner\obj\Debug\net8.0\ContaBancariaBeginner.genruntimeconfig.cache
+C:\Users\conra\Documents\csharp\ContaBancariaBeginner\ContaBancariaBeginner\obj\Debug\net8.0\ref\ContaBancariaBeginner.dll
