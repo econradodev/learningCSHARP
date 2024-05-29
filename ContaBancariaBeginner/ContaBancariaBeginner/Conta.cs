@@ -9,37 +9,38 @@ namespace ContaBancariaBeginner
 {
     internal class Conta
     {
-        private int _numeroDaConta;
-        private string _nome;
-        public double _saldo;
+        public int Numero { get; private set; }
+        public string Nome { get; set; }
+        public double Saldo { get; private set; }
 
-        public Conta() { }
-
-        public Conta(int numeroDaConta, string nome, double saldo)
+        public Conta(int numero, string nome)
         {
-            _numeroDaConta = numeroDaConta;
-            _nome = nome;
-            _saldo = saldo;
+            Numero = numero;
+            Nome = nome;
+        }
+
+        public Conta(int numero, string nome, double valor) : this(numero, nome) {
+            AdicionarSaldo(valor);
         }
 
         public void AdicionarSaldo(double valor)
         {
-            _saldo += valor;
+            Saldo += valor;
         }
 
         public void Saque(double valor)
         {
-            _saldo -= valor + 5.00;
+            Saldo -= valor + 5.00;
         }
 
         public override string ToString()
         {
             return "Conta " 
-                + _numeroDaConta
+                + Numero
                 + ", Titular: "
-                + _nome
+                + Nome
                 + ", Saldo: $ "
-                + _saldo.ToString("F2", CultureInfo.InvariantCulture);
+                + Saldo.ToString("F2", CultureInfo.InvariantCulture);
         }
     }
 }

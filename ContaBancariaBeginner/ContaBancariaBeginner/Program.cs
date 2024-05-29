@@ -9,44 +9,44 @@ namespace ContaBancariaBeginner
         {
 
             Console.Write("Digite o número da conta: ");
-            int NumeroDaConta = int.Parse(Console.ReadLine());
+            int numeroDaConta = int.Parse(Console.ReadLine());
 
             Console.Write("Digite o nome do titular da conta: ");
-            string Nome = Console.ReadLine();
-            double Saldo = 0;
+            string nome = Console.ReadLine();
 
-            Conta conta = new Conta(NumeroDaConta, Nome, Saldo);
+            Conta conta;
 
             Console.Write("Haverá depósito inicial (s/n)? ");
-            char Verificador = char.Parse(Console.ReadLine());
+            char verificador = char.Parse(Console.ReadLine());
 
-            if (Verificador == 'n')
-            {
-                Console.WriteLine();
-                Console.WriteLine("Dados da conta:");
-                Console.WriteLine(conta);
-
-            } else if (Verificador == 's')
+           if (verificador == 's' || verificador == 'S')
             {
                 Console.Write("Digite o valor do depósito inicial: ");
-                conta._saldo = double.Parse(Console.ReadLine());
+                double saldo = double.Parse(Console.ReadLine());
+                conta = new Conta(numeroDaConta, nome, saldo);
                 Console.WriteLine();
                 Console.WriteLine("Dados da conta:");
                 Console.WriteLine(conta);
 
+            } else
+            {
+                conta = new Conta(numeroDaConta, nome);
+                Console.WriteLine();
+                Console.WriteLine("Dados da conta:");
+                Console.WriteLine(conta);
             }
 
             Console.WriteLine();
             Console.Write("Digite um valor para depósito: ");
-            double Valor = double.Parse(Console.ReadLine());
-            conta.AdicionarSaldo(Valor);
+            double valor = double.Parse(Console.ReadLine());
+            conta.AdicionarSaldo(valor);
             Console.WriteLine("Dados da conta atualizados: ");
             Console.WriteLine(conta);
 
             Console.WriteLine();
             Console.Write("Digite um valor para saque: ");
-            Valor = double.Parse(Console.ReadLine());
-            conta.Saque(Valor);
+            valor = double.Parse(Console.ReadLine());
+            conta.Saque(valor);
             Console.WriteLine("Dados da conta atualizados: ");
             Console.WriteLine(conta);
 
