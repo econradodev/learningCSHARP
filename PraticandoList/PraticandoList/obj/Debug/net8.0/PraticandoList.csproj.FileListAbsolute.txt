@@ -1,0 +1,15 @@
+C:\Users\conra\Documents\csharp\PraticandoList\PraticandoList\bin\Debug\net8.0\PraticandoList.exe
+C:\Users\conra\Documents\csharp\PraticandoList\PraticandoList\bin\Debug\net8.0\PraticandoList.deps.json
+C:\Users\conra\Documents\csharp\PraticandoList\PraticandoList\bin\Debug\net8.0\PraticandoList.runtimeconfig.json
+C:\Users\conra\Documents\csharp\PraticandoList\PraticandoList\bin\Debug\net8.0\PraticandoList.dll
+C:\Users\conra\Documents\csharp\PraticandoList\PraticandoList\bin\Debug\net8.0\PraticandoList.pdb
+C:\Users\conra\Documents\csharp\PraticandoList\PraticandoList\obj\Debug\net8.0\PraticandoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conra\Documents\csharp\PraticandoList\PraticandoList\obj\Debug\net8.0\PraticandoList.AssemblyInfoInputs.cache
+C:\Users\conra\Documents\csharp\PraticandoList\PraticandoList\obj\Debug\net8.0\PraticandoList.AssemblyInfo.cs
+C:\Users\conra\Documents\csharp\PraticandoList\PraticandoList\obj\Debug\net8.0\PraticandoList.csproj.CoreCompileInputs.cache
+C:\Users\conra\Documents\csharp\PraticandoList\PraticandoList\obj\Debug\net8.0\PraticandoList.sourcelink.json
+C:\Users\conra\Documents\csharp\PraticandoList\PraticandoList\obj\Debug\net8.0\PraticandoList.dll
+C:\Users\conra\Documents\csharp\PraticandoList\PraticandoList\obj\Debug\net8.0\refint\PraticandoList.dll
+C:\Users\conra\Documents\csharp\PraticandoList\PraticandoList\obj\Debug\net8.0\PraticandoList.pdb
+C:\Users\conra\Documents\csharp\PraticandoList\PraticandoList\obj\Debug\net8.0\PraticandoList.genruntimeconfig.cache
+C:\Users\conra\Documents\csharp\PraticandoList\PraticandoList\obj\Debug\net8.0\ref\PraticandoList.dll

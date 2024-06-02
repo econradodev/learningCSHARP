@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\conra\\Documents\\csharp\\PraticandoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE6B52A-0C72-448E-91FE-08AD537FA994}|PraticandoList\\PraticandoList.csproj|c:\\users\\conra\\documents\\csharp\\praticandolist\\praticandolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE6B52A-0C72-448E-91FE-08AD537FA994}|PraticandoList\\PraticandoList.csproj|solutionrelative:praticandolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE6B52A-0C72-448E-91FE-08AD537FA994}|PraticandoList\\PraticandoList.csproj|c:\\users\\conra\\documents\\csharp\\praticandolist\\praticandolist\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE6B52A-0C72-448E-91FE-08AD537FA994}|PraticandoList\\PraticandoList.csproj|solutionrelative:praticandolist\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\conra\\Documents\\csharp\\PraticandoList\\PraticandoList\\Employee.cs",
+              "RelativeDocumentMoniker": "PraticandoList\\Employee.cs",
+              "ToolTip": "C:\\Users\\conra\\Documents\\csharp\\PraticandoList\\PraticandoList\\Employee.cs",
+              "RelativeToolTip": "PraticandoList\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:33:17.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\conra\\Documents\\csharp\\PraticandoList\\PraticandoList\\Program.cs",
+              "RelativeDocumentMoniker": "PraticandoList\\Program.cs",
+              "ToolTip": "C:\\Users\\conra\\Documents\\csharp\\PraticandoList\\PraticandoList\\Program.cs",
+              "RelativeToolTip": "PraticandoList\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:32:11.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
