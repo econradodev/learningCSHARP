@@ -36,7 +36,7 @@ namespace PraticandoList
             {
                 Console.Write("Enter the percentage: ");
                 double percent = double.Parse(Console.ReadLine());
-                list[index].Salary += list[index].Salary * percent / 100;
+                list[index].IncreaseSalary(percent);
             }
             else
             {

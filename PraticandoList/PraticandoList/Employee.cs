@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -18,6 +19,11 @@ namespace PraticandoList
             Id = id;
             Name = name;
             Salary = salary;
+        }
+
+        public void IncreaseSalary(double percent)
+        {
+            Salary += Salary * percent / 100;
         }
 
         public override string ToString()

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PraticandoList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70bebe5660c0f26224bdd48ac9299d866990139e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49fc8a09e54617afec85737f030a6465c3b74ea5")]
 [assembly: System.Reflection.AssemblyProductAttribute("PraticandoList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PraticandoList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
